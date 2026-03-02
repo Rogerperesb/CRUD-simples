@@ -1,0 +1,12 @@
+# Ambientes Virtuais
+env/
+venv/
+.env
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de banco de dados/dados locais
+usuarios.json
